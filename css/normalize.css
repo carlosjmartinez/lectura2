@@ -182,8 +182,8 @@ sub {
  */
 
 img {
-  border: 40px;
-position: justify}
+  border: 0;
+}
 
 /**
  * Correct overflow not hidden in IE 9/10/11.
